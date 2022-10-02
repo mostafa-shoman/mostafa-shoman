@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mostafa Mahmoud Mohamed
+<h1 align = "center"> Hi 👋, I'm Mostafa Mahmoud Mohamed </h1>
 
 <!--
 **mostafa-shoman/mostafa-shoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
