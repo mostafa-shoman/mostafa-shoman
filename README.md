@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mostafa-shoman&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Mostafa Mahmoud" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-shoman&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Mostafa Mahmoud" /></a>
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shoman&show_icons=true&hide_border=true" alt="My Stats">
     <br />
