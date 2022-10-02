@@ -32,8 +32,7 @@ Here are some ideas to get you started:
  
 </div>
 
-<h2 align="center">Visitors: </h2>
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors"> </p>
+<h2 align="center">Visitors: </h2> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors"> </p>
 
 
 ## 🔗 Connect with me:
