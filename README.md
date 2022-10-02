@@ -6,8 +6,7 @@
 ### Languages
 
 ![C++](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **mostafa-shoman/mostafa-shoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
