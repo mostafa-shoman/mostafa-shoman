@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages
+## Languages:
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📈 Stats
+## 📈 Stats:
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-shoman&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Mostafa Mahmoud" /></a>
