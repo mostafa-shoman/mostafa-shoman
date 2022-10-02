@@ -15,7 +15,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shoman&show_icons=true&hide_border=true" alt="My GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+    
 </div>
 
 <!--
