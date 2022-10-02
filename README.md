@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi 👋, I'm Mostafa Mahmoud Mohamed </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-shoman&label=Profile%20views&color=0e75b6&style=flat" alt="Visiros" /> </p>
+
 <h2 align="center">"&ltJust Engineer/&gt"</h2>
 
 
@@ -15,7 +15,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shoman&show_icons=true&hide_border=true" alt="My GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors">
+    
 </div>
 
 <!--
