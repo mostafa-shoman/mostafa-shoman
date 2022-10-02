@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CPP](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![GitHub all releases](https://img.shields.io/github/downloads/mostafa-shoman/mostafa-shoman/total?color=Blue&label=Facebook&logo=Facebook&style=for-the-badge)
 ## 📈 Stats:
 
 <div align="center">
