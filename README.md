@@ -29,8 +29,9 @@ Here are some ideas to get you started:
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shoman&show_icons=true&hide_border=true" alt="My Stats">
     <br />
-  ## 🔗 Visitors:  <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors">
+ 
 </div>
+ ## 🔗 Visitors:  <p> <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors"> </p>
 
 
 ## 🔗 Connect with me:
