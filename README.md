@@ -6,14 +6,14 @@
 
 Here are some ideas to get you started:
 I’m currently learning Mobile Development
-- 🔭 I’m currently working on ... [Youth-Care WebSite](https://github.com/mohamedmamdouh22/Youth-care)
-- 🌱 I’m currently learning ... **Mobile Development by Flutter** 
+- 🔭 I’m currently working on [Youth-Care WebSite](https://github.com/mohamedmamdouh22/Youth-care)
+- 🌱 I’m currently learning **Mobile Development by Flutter** 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: **mshoman01020@gmail.com**
 <!-- - 😄 Pronouns:  -->
-- ⚡😄 Fun fact: **You will follow me......**
+- ⚡ Fun fact: **You will follow me 😄......**
 
 ## Languages:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
