@@ -1,7 +1,20 @@
 <h1 align = "center"> Hi 👋, I'm Mostafa Mahmoud Mohamed </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-shoman&label=Profile%20views&color=0e75b6&style=flat" alt="Visiros" /> </p>
 <h2 align="center">"&ltJust Engineer/&gt"</h2>
 
+<!--
+**mostafa-shoman/mostafa-shoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... [application name](app link on github)
+- 🌱 I’m currently learning ... **Mobile Development**
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 ### Languages
 
@@ -18,20 +31,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors">
 </div>
 
-<!--
-**mostafa-shoman/mostafa-shoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... [application name](app link on github)
-- 🌱 I’m currently learning ... **Mobile Development**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🔗 Connect with me:
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-shoman/)
