@@ -1,4 +1,7 @@
 <h1 align = "center"> Hi 👋, I'm Mostafa Mahmoud Mohamed </h1>
+<h3 align="center">flutter developer/Data scientist</h3>
+<img align='right' alt='coding' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmamdouh22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmamdouh22" /> </p>
 
 <!--
 **mostafa-shoman/mostafa-shoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
