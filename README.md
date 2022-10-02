@@ -5,7 +5,7 @@
 
 ### Languages
 
-![C++](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://cdn.icon-icons.com/icons2/3398/PNG/512/plus_logo_c_icon_214621.png)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
