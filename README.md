@@ -58,11 +58,11 @@ I’m currently learning Mobile Development
 ## 📈 Stats:
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mostafa-shoman&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafa-shoman&show_icons=true&hide_border=true" alt="Mostafa Mahmoud's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors">
 </div>
 
 <h2 align="center"> Visitors: </h2> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=mostafa-shoman" alt="visitors"> </p>
